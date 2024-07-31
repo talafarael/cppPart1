@@ -4,8 +4,8 @@ int main(){
     setlocale(LC_ALL,"RU");
 
     std::cout << "Hell there\n" << std::endl;
-      std::cout << "Hre";
-        std::cout << "Hell there";
-
+      
+    std::cout << "Hell there";
+    std::cout << "Hre";
     return 0;
 }
